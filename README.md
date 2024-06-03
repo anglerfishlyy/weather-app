@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - [Overview]
 - [Installation]
-- [Usage](#usage)
+- [Usage]
 - [File Structure]
 - [Technologies]
 - [License]
